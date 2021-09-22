@@ -1,4 +1,4 @@
-# TIC TAC TOE App
+# TIC TAC TOE APP
 
 ![alt text](https://github.com/Dramane-dev/tic-tac-toe/blob/master/ScreenApp.png?raw=true)
 
